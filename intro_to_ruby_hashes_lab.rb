@@ -26,13 +26,13 @@ monopoly = {
     railroads: {
       pieces: 4,
       names: {
-        :reading_railroad => {"mortgage_value"=>"100"
+        :reading_railroad => {"mortgage_value"=>"$100"
           },
-        :pennsylvania_railroad => {"mortgage_value"=>"200"
+        :pennsylvania_railroad => {"mortgage_value"=>"$200"
           },
-          :b_and_o_railroad => {"mortgage_value"=>"400"
+          :b_and_o_railroad => {"mortgage_value"=>"$400"
           },
-          :shortline => {"mortgage_value"=>"800"
+          :shortline => {"mortgage_value"=>"$800"
           }
       },
       rent_in_dollars: {
